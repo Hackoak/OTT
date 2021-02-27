@@ -80,7 +80,7 @@ class _SeriesSState extends State<SeriesS> {
         toolbarHeight: 70,
       ),
       body: FutureBuilder(
-          future: DefaultAssetBundle.of(context).loadString("assets/flu.json"),
+          future: DefaultAssetBundle.of(context).loadString("assets/Rest.json"),
           builder: (context, snapshot) {
             var mydata = json.decode(snapshot.data.toString());
             if (mydata != null) {
