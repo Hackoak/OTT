@@ -36,6 +36,14 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ---
 
+
+    ```html
+    <details>
+        <summary>Preview</summary>
+        <img src="EXAMPLES/<Username>.png">
+    </details>
+    ```
+
 ## A
 
 - [Aakarsh B](https://github.com/Aakarsh-B)
